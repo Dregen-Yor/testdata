@@ -1,0 +1,6 @@
+# Keep JSON & code as LF to avoid CRLF diffs
+*.json text eol=lf
+*.py   text eol=lf
+*.js   text eol=lf
+*.css  text eol=lf
+*.html text eol=lf
