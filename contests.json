@@ -1,0 +1,85 @@
+[
+  {
+    "id": "60bde93f-3666-4cea-aacb-0960f94580ae",
+    "created_at": "2025-11-12T06:24:08.213655+00:00",
+    "updated_at": "2025-11-12T06:24:08.213655+00:00",
+    "name": "南京",
+    "total_problems": 12,
+    "problems": [
+      {
+        "letter": "A",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "B",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "C",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "D",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "E",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "F",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "G",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "H",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "I",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "J",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "K",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "L",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      }
+    ],
+    "rank_str": null,
+    "summary": null
+  }
+]
