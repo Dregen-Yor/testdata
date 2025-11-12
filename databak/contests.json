@@ -1,0 +1,120 @@
+[
+  {
+    "id": "2b66dc47-69be-42e4-8915-8d8ebf992341",
+    "created_at": "2025-11-12T01:15:42.461642Z",
+    "updated_at": "2025-11-12T01:30:15.394677+00:00",
+    "name": "南京",
+    "total_problems": 12,
+    "problems": [
+      {
+        "letter": "A",
+        "pass_count": 33,
+        "attempt_count": 100,
+        "my_status": "ac"
+      },
+      {
+        "letter": "B",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "C",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "D",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "E",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "F",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "G",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "H",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "I",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "J",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "K",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "L",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      }
+    ],
+    "rank_str": "1",
+    "summary": "无"
+  },
+  {
+    "id": "ab264f92-af98-46a4-b7c4-897903a3f27f",
+    "created_at": "2025-11-12T01:42:44.722935+00:00",
+    "updated_at": "2025-11-12T01:42:44.722935+00:00",
+    "name": "测试",
+    "total_problems": 4,
+    "problems": [
+      {
+        "letter": "A",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "B",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "C",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "D",
+        "pass_count": 0,
+        "attempt_count": 0,
+        "my_status": "unsubmitted"
+      }
+    ],
+    "rank_str": null,
+    "summary": null
+  }
+]

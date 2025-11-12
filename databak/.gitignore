@@ -1,0 +1,7 @@
+# Include all data files
+!*.json
+!*.md
+
+# But exclude backups
+*.backup.json
+*.bak.json
