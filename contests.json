@@ -164,5 +164,94 @@
     ],
     "rank_str": null,
     "summary": null
+  },
+  {
+    "id": "38f215f0-7dde-4c9a-923e-9202f605419c",
+    "created_at": "2025-12-02T05:36:00.250Z",
+    "updated_at": "2025-12-02T05:36:00.250Z",
+    "name": "The 2025 ICPC Asia Xi'an Regional Contest",
+    "total_problems": 13,
+    "problems": [
+      {
+        "letter": "A",
+        "pass_count": 8,
+        "attempt_count": 32,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "B",
+        "pass_count": 71,
+        "attempt_count": 143,
+        "my_status": "attempted"
+      },
+      {
+        "letter": "C",
+        "pass_count": 19,
+        "attempt_count": 42,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "D",
+        "pass_count": 0,
+        "attempt_count": 11,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "E",
+        "pass_count": 0,
+        "attempt_count": 9,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "F",
+        "pass_count": 267,
+        "attempt_count": 347,
+        "my_status": "ac"
+      },
+      {
+        "letter": "G",
+        "pass_count": 451,
+        "attempt_count": 452,
+        "my_status": "ac"
+      },
+      {
+        "letter": "H",
+        "pass_count": 0,
+        "attempt_count": 6,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "I",
+        "pass_count": 189,
+        "attempt_count": 371,
+        "my_status": "ac"
+      },
+      {
+        "letter": "J",
+        "pass_count": 353,
+        "attempt_count": 428,
+        "my_status": "ac"
+      },
+      {
+        "letter": "K",
+        "pass_count": 14,
+        "attempt_count": 34,
+        "my_status": "unsubmitted"
+      },
+      {
+        "letter": "L",
+        "pass_count": 442,
+        "attempt_count": 451,
+        "my_status": "ac"
+      },
+      {
+        "letter": "M",
+        "pass_count": 60,
+        "attempt_count": 87,
+        "my_status": "attempted"
+      }
+    ],
+    "rank_str": "84",
+    "summary": null
   }
 ]
